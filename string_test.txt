@@ -1,0 +1,4 @@
+"hi" + "there"
+"xyz" == "xyz"
+"cat" != "dog"
+"he" + "llo" == "hello"
